@@ -1,0 +1,48 @@
+Ogrenci Adi: Burak, Ogrenci Soyadi: Erdogan, Bolum: Bilgisayar Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 30
+	Ders Adi: Ayrik yapilar, Puan: 50
+	Ders Adi: Sayisal sistemler, Puan: 80
+	Ders Adi: Sayisal yontemler, Puan: 84
+	Ders Adi: Diferansiyel Denklemler, Puan: 100
+
+Ogrenci Adi: Emirhan, Ogrenci Soyadi: Tok, Bolum: Bilgisayar Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 20
+	Ders Adi: Ayrik yapilar, Puan: 50
+	Ders Adi: Sayisal sistemler, Puan: 70
+	Ders Adi: Sayisal yontemler, Puan: 100
+	Ders Adi: Diferansiyel Denklemler, Puan: 65
+
+Ogrenci Adi: Ali Enes, Ogrenci Soyadi: Gurel, Bolum: Bilgisayar Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 7
+	Ders Adi: Ayrik yapilar, Puan: 78
+	Ders Adi: Sayisal sistemler, Puan: 60
+	Ders Adi: Sayisal yontemler, Puan: 89
+	Ders Adi: Diferansiyel Denklemler, Puan: 51
+
+Ogrenci Adi: Alper, Ogrenci Soyadi: Gurel, Bolum: Yazilim Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 42
+	Ders Adi: Ayrik yapilar, Puan: 13
+	Ders Adi: Sayisal sistemler, Puan: 100
+	Ders Adi: Sayisal yontemler, Puan: 86
+	Ders Adi: Diferansiyel Denklemler, Puan: 76
+
+Ogrenci Adi: Yunus Emre, Ogrenci Soyadi: Daldal, Bolum: Yazilim Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 85
+	Ders Adi: Ayrik yapilar, Puan: 70
+	Ders Adi: Sayisal sistemler, Puan: 90
+	Ders Adi: Sayisal yontemler, Puan: 10
+	Ders Adi: Diferansiyel Denklemler, Puan: 5
+
+Ogrenci Adi: Alp, Ogrenci Soyadi: Tuncer, Bolum: Bilgisayar Muhendisligi
+Aldigi Dersler:
+	Ders Adi: Programlama, Puan: 20
+	Ders Adi: Ayrik yapilar, Puan: 50
+	Ders Adi: Sayisal sistemler, Puan: 10
+	Ders Adi: Sayisal yontemler, Puan: 25
+	Ders Adi: Diferansiyel Denklemler, Puan: 15
+
